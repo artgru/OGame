@@ -48,6 +48,10 @@
     {
       "title": "Darowizna - ostrzeżenie i nakaz odsyłki",
       "content": "Witam,\nw związku z przekroczeniem dopuszczalnej liczby surowców darowanych, udzielam Panu ostrzeżenia i nakazuję odsyłkę surowców do gracza darującego.\n\nIlość surowców do odesłania: \n\nTermin odesłania surowców to: \n\nJednocześnie przypominam, że w czasie trwania kary, gracz nie może otrzymywać transportów/darowizn od innych. Jeżeli ma Pan/Pani jakieś dodatkowe pytania, proszę o kontakt przez system Support.\n\nPozdrawiam\n[Operator]\n" 
+    },
+    {
+      "title": "Wulgarna wiadomość - ostrzeżenie",
+      "content": "Udzielam Ci upomnienia za obraźliwą lub/i wulgarną wiadomość wysłaną do innego gracza. Kolejne takie wykroczenie skutkować będzie blokadą konta.\nWszelkie zapytania proszę kierować poprzez support.\n\nPozdrawiam\n[Operator]\n"
     }
   ]
 }
